@@ -1,7 +1,7 @@
 <h1 align="center">alfa-leetcode-api</h1>
 
 <p align="center">
-  <strong>The API for retrieving your LeetCode profile & Problems statistics</strong>
+  <strong>This API is for retrieving your LeetCode profile & Problems statistics</strong>
 </p>
 
 <p align="center">
